@@ -12,4 +12,5 @@ Este curso presenta los fundamentos de los métodos de análisis numérico enfoc
 ### Capítulo 5: Integración numérica y métodos de Monte Carlo
 
 Horario: 
+
 Software:
