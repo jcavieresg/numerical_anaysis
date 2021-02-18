@@ -1,10 +1,10 @@
 # Introducción al Análisis Numérico
 Asignatura pregrado Ingeniería Estadística, Universidad de Valparaíso
 
-# DESCRIPCION
+# Descripción
 Este curso presenta los fundamentos de los métodos de análisis numérico enfocados en la estadística, abordando conjuntamente teoría y práctica
 
-# CONTENIDOS
+# Contenidos
 ### Capítulo 1: Preliminares mátemáticos, Algoritmos y computación
 ### Capítulo 2: Matrices y solución de ecuaciones lineales
 ### Capítulo 3: Problemas de valores y vectores propios
